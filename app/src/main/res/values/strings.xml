@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BTC Wallpaper</string>
+    <string name="description">Bitcoin 24h price chart, refreshed every 5 minutes</string>
+</resources>
